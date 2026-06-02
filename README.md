@@ -53,15 +53,10 @@ Cross connection:
 
 <img width="1192" height="1345" alt="WhatsApp Image 2026-05-29 at 11 26 11 AM" src="https://github.com/user-attachments/assets/ca8a8492-0dc3-4f87-adb3-e92b50c1640e" />
 
-
 CIRCUIT DIAGRAM:
-
-
 <img width="1034" height="622" alt="cross connection circuit diagram" src="https://github.com/user-attachments/assets/66d67143-f9ae-4bc0-be17-3eab52f4fef4" />
 
-
 Tabulation:2
-
 <img width="1600" height="929" alt="WhatsApp Image 2026-05-29 at 11 26 11 AM (1)" src="https://github.com/user-attachments/assets/ffb7c10d-211a-4b75-aa03-8d2c14811f61" />
 
 RESULT:
