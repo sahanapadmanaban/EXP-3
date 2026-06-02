@@ -59,5 +59,7 @@ CIRCUIT DIAGRAM:
 Tabulation:2
 <img width="1600" height="929" alt="WhatsApp Image 2026-05-29 at 11 26 11 AM (1)" src="https://github.com/user-attachments/assets/ffb7c10d-211a-4b75-aa03-8d2c14811f61" />
 
+
+
 RESULT:
 Thus the staircase wiring is connected and tested.
