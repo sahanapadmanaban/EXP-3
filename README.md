@@ -42,14 +42,19 @@ switch2.
 
 Direct connection: CIRCUIT DIAGRAM: 
 
-<img width="952" height="1599" alt="WhatsApp Image 2026-05-29 at 11 26 10 AM" src="https://github.com/user-attachments/assets/c2b1ca51-f68e-4f1a-be1d-e5baf03ac2a8" />
+<img width="1028" height="657" alt="direct connection circuit diagram" src="https://github.com/user-attachments/assets/c8e0df8d-5536-48ef-8a29-d43288911298" />
+
 
 Tabulation:1
+<img width="1600" height="903" alt="tabulation 1" src="https://github.com/user-attachments/assets/3c3bedd8-f846-4f73-bf21-d14518dbe2fe" />
+
+
 	
 Cross connection: CIRCUIT DIAGRAM:
 
 
-<img width="1192" height="1345" alt="WhatsApp Image 2026-05-29 at 11 26 11 AM" src="https://github.com/user-attachments/assets/f151553d-3b64-43e3-98f4-90356802d294" />
+<img width="1034" height="622" alt="cross connection circuit diagram" src="https://github.com/user-attachments/assets/66d67143-f9ae-4bc0-be17-3eab52f4fef4" />
+
 
 
 Tabulation:2
