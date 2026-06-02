@@ -40,7 +40,11 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: 
+Direct connection: 
+
+<img width="952" height="1599" alt="WhatsApp Image 2026-05-29 at 11 26 10 AM" src="https://github.com/user-attachments/assets/1ae8a8ba-0047-405c-af42-15dc2f217f2a" />
+
+CIRCUIT DIAGRAM: 
 
 <img width="1028" height="657" alt="direct connection circuit diagram" src="https://github.com/user-attachments/assets/c8e0df8d-5536-48ef-8a29-d43288911298" />
 
@@ -50,7 +54,12 @@ Tabulation:1
 
 
 	
-Cross connection: CIRCUIT DIAGRAM:
+Cross connection: 
+
+<img width="1192" height="1345" alt="WhatsApp Image 2026-05-29 at 11 26 11 AM" src="https://github.com/user-attachments/assets/ca8a8492-0dc3-4f87-adb3-e92b50c1640e" />
+
+
+CIRCUIT DIAGRAM:
 
 
 <img width="1034" height="622" alt="cross connection circuit diagram" src="https://github.com/user-attachments/assets/66d67143-f9ae-4bc0-be17-3eab52f4fef4" />
