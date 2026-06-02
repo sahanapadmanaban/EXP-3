@@ -41,17 +41,14 @@ switch2.
 
 
 Direct connection: 
-
 <img width="952" height="1599" alt="WhatsApp Image 2026-05-29 at 11 26 10 AM" src="https://github.com/user-attachments/assets/1ae8a8ba-0047-405c-af42-15dc2f217f2a" />
 
 CIRCUIT DIAGRAM: 
 
 <img width="1028" height="657" alt="direct connection circuit diagram" src="https://github.com/user-attachments/assets/c8e0df8d-5536-48ef-8a29-d43288911298" />
 
-
 Tabulation:1
 <img width="1600" height="903" alt="tabulation 1" src="https://github.com/user-attachments/assets/3c3bedd8-f846-4f73-bf21-d14518dbe2fe" />
-
 
 	
 Cross connection: 
